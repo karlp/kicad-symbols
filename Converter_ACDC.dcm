@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HLK-5M03
+D 3V3 5W miniature AC-DC module-type power supply Hi-Link
+K 3V3 5W miniature AC-DC module-type power supply Hi-Link
+F http://www.hlktech.net/product_detail.php?ProId=63
+$ENDCMP
+#
+$CMP HLK-5M05
+D 5V 5W miniature AC-DC module-type power supply Hi-Link
+K 5V 5W miniature AC-DC module-type power supply Hi-Link
+F http://www.meanwell.com/productPdf.aspx?i=675
+$ENDCMP
+#
+$CMP HLK-5M12
+D 12V 5W miniature AC-DC module-type power supply Hi-Link
+K 12V 5W miniature AC-DC module-type power supply Hi-Link
+F http://www.hlktech.net/product_detail.php?ProId=64
+$ENDCMP
+#
 $CMP HLK-PM01
 D Compact AC/DC board mount power module 3W 5V
 K AC/DC module power supply
