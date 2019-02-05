@@ -12,6 +12,12 @@ K lightning sensor
 F https://www.embeddedadventures.com/datasheets/AS3935_Datasheet_EN_v2.pdf
 $ENDCMP
 #
+$CMP ATM90E32
+D High-performance energy metering device for three-phase 3/4 wire systems
+K energy meter polyphase
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-46003-SE-M90E32AS-Datasheet.pdf
+$ENDCMP
+#
 $CMP BME280
 D 3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8
 K Bosch pressure humidity temperature environment environmental measurement digital
