@@ -96,6 +96,42 @@ K DC/DC converter single
 F https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf
 $ENDCMP
 #
+$CMP B0503XT-1WR3
+D 1W, Fixed input voltage 5V, isolated & unregulated single output 3.3V
+K Mornsun isolated DC/DC Converter module 1W
+F https://www.mornsun-power.com/uploads/pdf/B05_XT-1WR3.pdf
+$ENDCMP
+#
+$CMP B0505XT-1WR3
+D 1W, Fixed input voltage 5V, isolated & unregulated single output 5V
+K Mornsun isolated DC/DC Converter module 1W
+F https://www.mornsun-power.com/uploads/pdf/B05_XT-1WR3.pdf
+$ENDCMP
+#
+$CMP B0509XT-1WR3
+D 1W, Fixed input voltage 5V, isolated & unregulated single output 9V
+K Mornsun isolated DC/DC Converter module 1W
+F https://www.mornsun-power.com/uploads/pdf/B05_XT-1WR3.pdf
+$ENDCMP
+#
+$CMP B0512XT-1WR3
+D 1W, Fixed input voltage 5V, isolated & unregulated single output 12V
+K Mornsun isolated DC/DC Converter module 1W
+F https://www.mornsun-power.com/uploads/pdf/B05_XT-1WR3.pdf
+$ENDCMP
+#
+$CMP B0515XT-1WR3
+D 1W, Fixed input voltage 5V, isolated & unregulated single output 15V
+K Mornsun isolated DC/DC Converter module 1W
+F https://www.mornsun-power.com/uploads/pdf/B05_XT-1WR3.pdf
+$ENDCMP
+#
+$CMP B0524XT-1WR3
+D 1W, Fixed input voltage 5V, isolated & unregulated single output 24V
+K Mornsun isolated DC/DC Converter module 1W
+F https://www.mornsun-power.com/uploads/pdf/B05_XT-1WR3.pdf
+$ENDCMP
+#
 $CMP BD8314NUV
 D 3.0V to 12V, Integrated 2.5A MOSFET 1ch Boost Converter, VSON-10
 K DCDC converter
