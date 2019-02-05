@@ -24,6 +24,12 @@ K lightning sensor
 F https://www.embeddedadventures.com/datasheets/AS3935_Datasheet_EN_v2.pdf
 $ENDCMP
 #
+$CMP ATM90E32
+D High-performance energy metering device for three-phase 3/4 wire systems
+K energy meter polyphase
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-46003-SE-M90E32AS-Datasheet.pdf
+$ENDCMP
+#
 $CMP BL0937
 D Single Phase Energy Meter IC with Integrated Oscillator, SOP-8
 K current sensor
