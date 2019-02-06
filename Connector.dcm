@@ -312,6 +312,11 @@ K ISA
 F https://en.wikipedia.org/wiki/Industry_Standard_Architecture
 $ENDCMP
 #
+$CMP Bus_PCIExpress_1x
+D PCIe PCIexpress 1x generic edge connector
+K PCIe PCIexpress 1x generic 2x18 36contact
+$ENDCMP
+#
 $CMP Bus_PCI_32bit_5V
 D PCI bus connector for 5V cards
 K PCI 5V
