@@ -132,6 +132,12 @@ K carambola, 8devices, openwrt, board, wlan
 F https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf
 $ENDCMP
 #
+$CMP ESP32-DEVKITC-32D
+D ESP32 Dev Kit C, module
+K Espressif Systems, esp32, esp32-wroom-32
+F https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf
+$ENDCMP
+#
 $CMP Maple_Mini
 D Maple Mini Microcontroller Module by LeafLabs
 K Maple Mini Microcontroller Module LeafLabs STM32 STM32F103
