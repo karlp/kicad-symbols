@@ -2020,6 +2020,12 @@ K connector USB
 F  ~
 $ENDCMP
 #
+$CMP USB_A_DUAL
+D Dual USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
 $CMP USB_B
 D USB Type B connector
 K connector USB
