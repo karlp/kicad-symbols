@@ -522,6 +522,12 @@ K USB2.0 Hi-Speed-USB-Hub Hub-Controller
 F http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
 $ENDCMP
 #
+$CMP USB2517
+D USB 2.0 Hi-Speed Hub Controller (7 port)
+K USB2.0 Hi-Speed-USB-Hub Hub-Controller 7 port
+F http://ww1.microchip.com/downloads/en/DeviceDoc/USB2517-USB2517i-Data-Sheet-00001598C.pdf
+$ENDCMP
+#
 $CMP USB3250-ABZJ
 D Hi-Speed USB Device Transceiver with UTMI Interface, QFN-56
 K HS FS Device USB PHY UTMI
