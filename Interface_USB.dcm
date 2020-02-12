@@ -450,6 +450,12 @@ K USB2.0 Hi-Speed-USB-Hub Hub-Controller 7 port
 F http://ww1.microchip.com/downloads/en/DeviceDoc/USB2517-USB2517i-Data-Sheet-00001598C.pdf
 $ENDCMP
 #
+$CMP USB2517_single
+D USB 2.0 Hi-Speed Hub Controller (7 port)
+K USB2.0 Hi-Speed-USB-Hub Hub-Controller 7 port
+F http://ww1.microchip.com/downloads/en/DeviceDoc/USB2517-USB2517i-Data-Sheet-00001598C.pdf
+$ENDCMP
+#
 $CMP USB3300-EZK
 D Hi-Speed USB Host, Device or OTG PHY with ULPI Interface
 K USB OTG Hi-Speed PHY ULPI Interface
