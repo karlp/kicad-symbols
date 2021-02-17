@@ -9589,7 +9589,7 @@
       )
     )
   )
-  (symbol "Interface_USB:USB2517" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "Interface_USB:USB2517" (pin_names (offset 0.002)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -17.78 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
